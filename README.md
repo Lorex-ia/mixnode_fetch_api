@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# App description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The goal of the project is to print a table listing Nym mixnodes through an API query. 
 
 ## Available Scripts
 
